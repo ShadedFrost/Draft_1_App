@@ -62,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/lib/pages/bitch_face(quiz_page).dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -80,14 +80,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="correct_wrong_overlay.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="correct_wrong_overlay.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/UI/correct_wrong_overlay.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="42" column="50" lean-forward="true" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+            <state relative-caret-position="275">
+              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.text" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/pages/test.text">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,6 +143,7 @@
         <option value="$PROJECT_DIR$/lib/UI/question_text.dart" />
         <option value="$PROJECT_DIR$/lib/pages/bitch_face(quiz_page).dart" />
         <option value="$PROJECT_DIR$/lib/UI/correct_wrong_overlay.dart" />
+        <option value="$PROJECT_DIR$/lib/pages/test.text" />
       </list>
     </option>
   </component>
@@ -724,7 +735,7 @@
     <entry file="file://$PROJECT_DIR$/lib/pages/bitch_face(quiz_page).dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -733,11 +744,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/UI/correct_wrong_overlay.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="50" lean-forward="true" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+        <state relative-caret-position="275">
+          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pages/test.text">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
         </state>
       </provider>
     </entry>
